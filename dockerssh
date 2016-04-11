@@ -1,0 +1,1 @@
+docker run -d --name sshd -p 2222:22 eg_sshd
